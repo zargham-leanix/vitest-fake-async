@@ -17,8 +17,8 @@
     "zone.js": "~0.14.3"
   },
   "devDependencies": {
-    "@analogjs/vite-plugin-angular": "~1.9.1",
-    "@analogjs/vitest-angular": "~1.9.1",
+    "@analogjs/vite-plugin-angular": "~1.10.1",
+    "@analogjs/vitest-angular": "~1.10.1",
     "@angular-devkit/build-angular": "~18.2.0",
     "@angular-devkit/core": "~18.2.0",
     "@angular-devkit/schematics": "~18.2.0",
@@ -34,6 +34,7 @@
     "@nx/jest": "20.1.4",
     "@nx/js": "20.1.4",
     "@nx/vite": "20.1.4",
+    "@ngx-translate/core": "16.0.3",
     "@nx/web": "20.1.4",
     "@nx/workspace": "20.1.4",
     "@schematics/angular": "~18.2.0",
